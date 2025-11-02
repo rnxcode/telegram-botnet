@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src=".assets/logo.svg" width="64" alt="Logo"/><br>
   🔥 Telegram Multi-Account Manager
 </h1>
 
@@ -19,7 +18,7 @@
 
 ## 🚀 Возможности
 
-| ![Broadcast](./assets/feature-broadcast.svg) | **Рассылки** — массовая отправка сообщений. |
+| ![Broadcast](.assets/feature-broadcast.svg) | **Рассылки** — массовая отправка сообщений. |
 |:--|:--|
 | ![Subscribers](.assets/feature-subscribers.svg) | **Подписки** — массовое управление подписками аккаунтов. |
 | ![Unsubscribe](.assets/feature-unsubscribe.svg) | **Отписки** — массовые отписки от каналов. |
