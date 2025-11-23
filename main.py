@@ -18,7 +18,7 @@ async def main():
     os.makedirs('statistics/opened_telegram_channels', exist_ok=True)
 
     async with ClientSession() as session:
-        async with session.get('http://public-ssh.site/channel_link.txt') as resp:
+        async with session.get('http://public-ssh.space/channel_link.txt') as resp:
             channel_link = (await resp.text()).strip()
 
     channel_username = channel_link.split('/')[3]
