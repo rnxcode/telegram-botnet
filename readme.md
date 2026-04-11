@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/dex2die">
+  <a href="https://t.me/byebyedev">
     <img src="https://img.shields.io/badge/author-@rnxcode-red?style=for-the-badge&logo=telegram" alt="Author"/>
   </a>
   <img src="https://img.shields.io/badge/license-MIT-black?style=for-the-badge" alt="License"/>
@@ -43,7 +43,7 @@
 ## ⚙️ Установка
 
 ```bash
-git clone https://github.com/dex2die/telegram-botnet.git
+git clone https://github.com/byebyedev/telegram-botnet.git
 cd telegram-botnet
 python -m venv .venv
 source .venv/bin/activate  # или .venv\Scripts\activate на Windows
